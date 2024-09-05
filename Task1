@@ -1,0 +1,1 @@
+The size limit of int datatype in c language is 4 bytes at max, which can store numbers from -21474836448 to +21474836448. Here the value given is out of this range causing an integer overflow which is why we are being shown a random negative number
